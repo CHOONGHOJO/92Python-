@@ -1,0 +1,10 @@
+//*[@학년="1-1-5"
+//*[@학번="login"]]
+
+/   => 내가 위치한 곳에서 한 단꼐 아래
+// = > 지금 위치로 부터 모든 하위 node
+*  =>  모든
+@  => 속성
+
+//*[@id="account"]/a   => xpath
+/html/body/div[2]/div[3]/div[3]/div/div[2]/a   =>  full path
